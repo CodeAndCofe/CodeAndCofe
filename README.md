@@ -13,7 +13,7 @@ IRC server (from scratch networking fun)
 
 Still learning every day, mostly JS/TS ecosystem these days, but always open to new things.
 Feel free to check out my repos or say hi!
-<div class="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 py-12 px-4 sm:px-6 lg:px-8">
+<details class="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 py-12 px-4 sm:px-6 lg:px-8">
   <div class="max-w-4xl mx-auto bg-white shadow-xl rounded-2xl overflow-hidden">
     <div class="bg-gradient-to-r from-indigo-600 to-purple-600 py-10 px-8 text-center text-white">
       <h1 class="text-4xl md:text-5xl font-bold tracking-tight">Hi, I'm Adil 👋</h1>
@@ -78,7 +78,5 @@ Feel free to check out my repos or say hi!
       <p>Made with ❤️ & Tailwind CSS • Last updated Feb 2026</p>
     </div>
   </div>
-</div>
-
-<!-- Load Tailwind CSS Play CDN -->
-<script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</details>
