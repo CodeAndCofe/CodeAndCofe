@@ -1,4 +1,4 @@
-Hi, I'm [Your Name/Username] 👋
+Hi, I'm adil 👋
 I'm a full-stack web developer who enjoys building stuff that works well on both ends. Right now I'm mostly working with:
 
 React + Next.js
