@@ -2,8 +2,8 @@
 
 Full‑stack web developer building clean, reliable web apps — frontend to backend.
 
-I enjoy creating products that feel smooth to use and solid under the hood.  
-Currently focused on building with modern JavaScript/TypeScript stacks and improving every day.
+Computer science student passionate about crafting smooth user experiences backed by solid engineering.
+Currently focused on modern JavaScript/TypeScript (e.g., React/Next.js + Node) and learning every day.
 
 ## What I’m working on
 - Building full‑stack projects (UI, APIs, databases)
@@ -14,13 +14,6 @@ Currently focused on building with modern JavaScript/TypeScript stacks and impro
 - **minishell** — a minimal Unix-like shell  
 - **pipex** — pipes, processes & redirections playground  
 - **IRC server** — a basic IRC server built from scratch  
-
-## Let’s connect
-- GitHub: https://github.com/CodeAndCofe  
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- Email: mailto:your.email@example.com  
-
----
 
 ## Tech I work with (tags)
 
@@ -40,5 +33,3 @@ Currently focused on building with modern JavaScript/TypeScript stacks and impro
 ![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-
-_Last updated: 2026-02-22_
