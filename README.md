@@ -1,99 +1,44 @@
-<!-- This uses Tailwind Play CDN - works directly in GitHub README -->
+# Hi, I’m Adil
 
-<div class="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 py-12 px-4 sm:px-6 lg:px-8">
-  <div class="max-w-4xl mx-auto bg-white shadow-xl rounded-2xl overflow-hidden">
+Full‑stack web developer building clean, reliable web apps — frontend to backend.
 
-    <!-- Header -->
-    <div class="bg-gradient-to-r from-indigo-600 to-purple-600 py-10 px-8 text-center text-white">
-      <h1 class="text-4xl md:text-5xl font-bold tracking-tight">Hi, I'm Adil 👋</h1>
-      <p class="mt-3 text-xl md:text-2xl font-light">Full-stack web developer building clean, reliable apps — frontend to backend.</p>
-    </div>
+I enjoy creating products that feel smooth to use and solid under the hood.  
+Currently focused on building with modern JavaScript/TypeScript stacks and improving every day.
 
-    <!-- Quick stats & visuals (add these for instant wow) -->
-    <div class="p-8 md:p-12 bg-gray-50 border-b border-gray-200">
-      <div class="flex flex-col md:flex-row justify-center items-center gap-8 flex-wrap">
-        <!-- GitHub stats card example - replace YOUR_USERNAME -->
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Adil's GitHub stats" class="rounded-xl shadow-md" />
-        
-        <!-- Top languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" class="rounded-xl shadow-md" />
-      </div>
-      
-      <!-- Optional streak stats -->
-      <div class="mt-6 text-center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" class="rounded-xl shadow-md inline-block" />
-      </div>
-    </div>
+## What I’m working on
+- Building full‑stack projects (UI, APIs, databases)
+- Writing cleaner, maintainable code
+- Learning and shipping consistently
 
-    <!-- Main content -->
-    <div class="p-8 md:p-12">
-      <p class="text-lg text-gray-700 leading-relaxed mb-8">
-        I enjoy creating stuff that works smoothly on both client and server. Currently focused on:
-      </p>
+## Projects (from my C/C++ journey)
+- **minishell** — a minimal Unix-like shell  
+- **pipex** — pipes, processes & redirections playground  
+- **IRC server** — a basic IRC server built from scratch  
 
-      <!-- Skills with badges -->
-      <div class="mb-12">
-        <h3 class="text-2xl font-bold text-gray-800 mb-4 text-center">Tech I Work With</h3>
-        <div class="flex flex-wrap justify-center gap-3">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-        </div>
-      </div>
+## Let’s connect
+- GitHub: https://github.com/CodeAndCofe  
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+- Email: mailto:your.email@example.com  
 
-      <!-- Past projects -->
-      <p class="text-lg text-gray-700 leading-relaxed mb-6">
-        Earlier I dove into lower-level stuff with C/C++ and built some classic 42-school inspired projects:
-      </p>
+---
 
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
-        <div class="bg-indigo-50 p-6 rounded-xl border border-indigo-100 hover:shadow-md transition-shadow">
-          <h4 class="font-bold text-indigo-800">minishell</h4>
-          <p class="text-gray-600 mt-1">My own minimal Unix-like shell</p>
-        </div>
-        <div class="bg-purple-50 p-6 rounded-xl border border-purple-100 hover:shadow-md transition-shadow">
-          <h4 class="font-bold text-purple-800">pipex</h4>
-          <p class="text-gray-600 mt-1">Pipes, processes & redirections playground</p>
-        </div>
-        <div class="bg-teal-50 p-6 rounded-xl border border-teal-100 hover:shadow-md transition-shadow">
-          <h4 class="font-bold text-teal-800">IRC server</h4>
-          <p class="text-gray-600 mt-1">Built a basic IRC server from scratch</p>
-        </div>
-      </div>
+## Tech I work with (tags)
 
-      <!-- Closing & CTA -->
-      <p class="text-lg text-gray-700 leading-relaxed mb-8">
-        Still learning daily — deep in the JS/TS world right now, but always curious about new tools and ideas.
-      </p>
+### Frontend
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-0B1220?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
-      <div class="text-center mb-8">
-        <p class="text-xl font-medium text-gray-800">Check out my repos, fork something, or just say hi! 🚀</p>
-      </div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0B1220?style=for-the-badge&logo=express&logoColor=white)
 
-      <!-- Social links -->
-      <div class="flex justify-center gap-6 flex-wrap">
-        <a href="https://github.com/YOUR_USERNAME" class="text-indigo-600 hover:text-indigo-800 font-medium">GitHub</a>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN" class="text-indigo-600 hover:text-indigo-800 font-medium">LinkedIn</a>
-        <a href="mailto:your.email@example.com" class="text-indigo-600 hover:text-indigo-800 font-medium">Email</a>
-        <!-- Add Twitter / Portfolio / Blog if you have -->
-      </div>
-    </div>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
-    <!-- Footer -->
-    <div class="bg-gray-100 py-6 px-8 text-center text-gray-600 text-sm">
-      <p>Made with ❤️ & Tailwind CSS • Last updated February 2026</p>
-    </div>
-
-  </div>
-</div>
-
-<!-- Tailwind CDN -->
-<script src="https://cdn.tailwindcss.com"></script>
+_Last updated: 2026-02-22_
