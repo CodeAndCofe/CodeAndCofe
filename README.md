@@ -15,7 +15,7 @@ Currently focused on modern JavaScript/TypeScript (e.g., React/Next.js + Node) a
 - **pipex** — pipes, processes & redirections playground  
 - **IRC server** — a basic IRC server built from scratch  
 
-## Tech I work with (tags)
+## Tech I work with
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
